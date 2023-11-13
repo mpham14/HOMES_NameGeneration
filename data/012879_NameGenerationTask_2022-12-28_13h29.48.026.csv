@@ -1,0 +1,10 @@
+﻿landmark_imagesA,landmark_imagesB,landmark_imagesC,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,text.started,text_2.started,key_resp.started,key_resp.keys,key_resp.rt,imageA.started,imageB.started,imageC.started,textbox_resp.started,text_4.started,key_resp_2.started,textbox_resp.text,key_resp_2.keys,key_resp_2.rt,text_3.started,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,,24.345733030997508,28.34900395099976,28.34900395099976,space,24.189764461007144,,,,,,,,,,,012879,001,2022-12-28_13h29.48.026,NameGenerationTask,2022.2.4,None,
+images_NG/Landmark4.png,images_NG/Landmark8.png,images_NG/Landmark12.png,0,0,0,3,,,,,,52.853321476999554,52.853321476999554,52.853321476999554,52.853321476999554,52.853321476999554,52.853321476999554, brown basket,return,6.777666754001984,,012879,001,2022-12-28_13h29.48.026,NameGenerationTask,2022.2.4,None,
+images_NG/Landmark3.png,images_NG/Landmark7.png,images_NG/Landmark11.png,0,1,1,2,,,,,,59.718915851997735,59.718915851997735,59.718915851997735,59.718915851997735,59.718915851997735,59.718915851997735,"
+wicker basket",return,6.881123280007159,,012879,001,2022-12-28_13h29.48.026,NameGenerationTask,2022.2.4,None,
+images_NG/Landmark2.png,images_NG/Landmark6.png,images_NG/Landmark10.png,0,2,2,1,,,,,,66.66289165099442,66.66289165099442,66.66289165099442,66.66289165099442,66.66289165099442,66.66289165099442,"
+stone basket",return,13.084561484007281,,012879,001,2022-12-28_13h29.48.026,NameGenerationTask,2022.2.4,None,
+images_NG/Landmark1.png,images_NG/Landmark5.png,images_NG/Landmark9.png,0,3,3,0,,,,,,79.89206093499524,79.89206093499524,79.89206093499524,79.89206093499524,79.89206093499524,79.89206093499524,"
+wire basket",return,7.443531700999301,,012879,001,2022-12-28_13h29.48.026,NameGenerationTask,2022.2.4,None,
+,,,,,,,,,,,,,,,,,,,,,87.35976443699474,,,,,,,
